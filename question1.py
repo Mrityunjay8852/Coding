@@ -28,3 +28,5 @@ dig_diff=abs(sum-sum_r)
 print(dig_diff)
 
 
+
+
